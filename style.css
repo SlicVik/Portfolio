@@ -31,7 +31,7 @@ h2 {
   overflow: hidden;
 }
 .css-typing p:nth-child(1) {
-  width: 11em;
+  width: 10em;
   -webkit-animation: type 2s;
   animation: type 2s;
   -webkit-animation-fill-mode: forwards;
@@ -39,7 +39,7 @@ h2 {
 }
 
 .css-typing p:nth-child(2) {
-  width: 8.8em;
+  width: 8.6em;
   opacity: 0;
   -webkit-animation: type2 3s;
   animation: type2 3s;
