@@ -17,7 +17,7 @@ h2 {
 /* intro sec */
 
 .bigimg {
-  min-width: 40vh;
+  aspect-ratio: 1/1.2;
   height: 100vh;
 }
 
@@ -161,6 +161,11 @@ h2 {
 
 .shadow {
   box-shadow: 0 0.5rem 1rem rgba(255, 255, 255, 0.15);
+}
+
+/* xp sec */
+.xpsec {
+  overflow: hidden;
 }
 
 /* contact sec */
